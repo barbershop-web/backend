@@ -1,3 +1,5 @@
+<h1 align="center">Barbershop API</h1>
+
 <!-- HOW TO CONTRIBUTE -->
 ## How To Contribute
 
